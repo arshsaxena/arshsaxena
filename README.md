@@ -7,7 +7,7 @@
 </a>
 </p>
 <br>
-<p align="center" height="100px">
+<p align="center" line_height="100px">
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arshsaxena&layout=compact&theme=radical" />

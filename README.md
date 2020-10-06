@@ -1,4 +1,4 @@
-<h1 align="center">Namaste.<img src="https://media1.tenor.com/images/9c0252f664ac314da727cbb50daab8f1/tenor.gif" font-size="80px" /></h1>
+<h1 align="center">Namaste.<img src="https://media1.tenor.com/images/9c0252f664ac314da727cbb50daab8f1/tenor.gif" font-size="40px" /></h1>
 <h3 align="center">I'm Arsh, a coding beginner.</h3>
 <br />
 <p align="center">

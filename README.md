@@ -11,9 +11,9 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arshsaxena&layout=compact&theme=dark" />
+  <img align="center" height="175" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arshsaxena&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arshsaxena&show_icons=true&include_all_commits=true&theme=dark" alt="Arsh's GitHub stats" />
+  <img align="center" height="175" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arshsaxena&show_icons=true&include_all_commits=true&theme=dark" alt="Arsh's GitHub stats" />
 </a>
 </p>

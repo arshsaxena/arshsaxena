@@ -1,4 +1,4 @@
-<h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif width="60px" /></h1>
+<h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I'm Arsh, a coding beginner.</h3>
 <br />
 <p align="center">

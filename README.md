@@ -1,4 +1,5 @@
-<h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<div font-size="35px">
+  <h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I'm Arsh, a coding beginner.</h3>
 <br />
 <p align="center">
@@ -8,6 +9,7 @@
   <a href="https://twitter.com/arshsaxena02" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/twitter.svg" height="30" width="38" /></a>
   <a href="https://www.youtube.com/channel/UC8QAtZHZy9DApConhuO5n-A" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/youtube.svg" height="30" width="40" /></a>
 </p>
+</div>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

@@ -1,5 +1,5 @@
 <h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center" style="font-family: SF Pro Text;">I'm Arsh, a coding beginner.</h3>
+<h3 align="center" style="font-family: url(https://github.com/arshsaxena/arshsaxena/blob/main/font/SF-Pro-Text-Regular.otf?raw=true);">I'm Arsh, a coding beginner.</h3>
 <br />
 <p align="center">
   <a href="mailto:tarsh.saxena02@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/d2a0b844ce50067559feb078c6d458ada1b8c101/icons/gmail.svg" height="32" width="44" /></a>

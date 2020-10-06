@@ -1,4 +1,5 @@
 <h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h1 align="center">Namaste.<img src="https://media1.tenor.com/images/9c0252f664ac314da727cbb50daab8f1/tenor.gif" width="40px" /></h1>
 <h3 align="center">I'm Arsh, a coding beginner.</h3>
 <br />
 <p align="center">
@@ -18,6 +19,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arshsaxena&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
-<br>
-[![HitCount](http://hits.dwyl.com/arshsaxena/VMC-CBJr.svg)](http://hits.dwyl.com/arshsaxena/VMC-CBJr)
 </p>

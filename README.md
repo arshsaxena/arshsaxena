@@ -1,5 +1,6 @@
 <h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I'm Arsh, a coding beginner; currently studying in Class X.</h3>
+<p align="center">🌱 I’m currently learning <b>Python basic</b>, <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>App Development with Block Programming</b>.</p>
 <br />
 <p align="center">
   <a href="mailto:arsh.saxena02@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/d2a0b844ce50067559feb078c6d458ada1b8c101/icons/gmail.svg" height="32" width="44"></a>

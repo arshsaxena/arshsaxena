@@ -19,4 +19,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arshsaxena&show_icons=true&include_all_commits=true&theme=dark" alt="Arsh's GitHub stats">
 </a>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 </p>

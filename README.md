@@ -1,5 +1,5 @@
 <h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/indiaflag.png" height="110" />I'm Arsh, a coding beginner; currently studying in Class X.</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/indiaflag.png" height="20" />I'm Arsh, a coding beginner; currently studying in Class X.</h3>
 <p align="center">🌱 I’m currently learning <b>Python basic</b>, <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>C++ basic</b>.</p>
 <br />
 <p align="center">

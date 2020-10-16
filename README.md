@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/indiaflag.png" height="30" /> Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I'm Arsh, a coding beginner; currently studying in Class X.</h3>
 <p align="center">🌱 I’m currently learning <b>Python basic</b>, <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>C++ basic</b>.</p>
 <br />
@@ -20,5 +20,5 @@
 </a>
   <br><br><br>
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br><br>
-  <img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/madeinindia.png" height="110" />
+  <img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/india.png" height="110" />
 </p>

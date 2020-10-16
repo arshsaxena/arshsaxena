@@ -19,6 +19,6 @@
   <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arshsaxena&show_icons=true&include_all_commits=true&theme=dark" alt="Arsh's GitHub stats">
 </a>
   <br><br><br>
-  <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>
+  <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br><br>
   <img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/madeinindia.png" height="110" />
 </p>

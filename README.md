@@ -21,4 +21,5 @@
   <br><br><br>
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>
   <br>
+  <img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/madeinindia.png" />
 </p>

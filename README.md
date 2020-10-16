@@ -21,5 +21,5 @@
   <br><br><br>
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>
   <br>
-  <img align="center" height="80" src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/india.png">
+  <img align="center" height="35" src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/india.png">
 </p>

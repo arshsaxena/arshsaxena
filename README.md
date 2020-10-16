@@ -20,4 +20,6 @@
 </a>
   <br><br><br>
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>
+  <br>
+  <img align="center" height="160" src="https://cdn.shopify.com/s/files/1/0128/2726/3066/files/Capture.PNG?v=1574921023">
 </p>

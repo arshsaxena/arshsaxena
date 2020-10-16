@@ -9,7 +9,7 @@
   <a href="https://www.reddit.com/u/arshsaxena" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/reddit.png" height="31" width="32"></a>&nbsp;
   <a href="https://www.twitter.com/arshsaxena02" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/twitter.svg" height="27" width="33"></a>&nbsp;
   <a href="https://www.linkedin.com/in/arshsaxena/" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.svg" height="31" width="44"></a>
-  <a href="https://gaana.com/playlist/arshsaxena-aaahx-favorite" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/gaana.png" height="30" width="18"></a>&nbsp;
+  <a href="https://gaana.com/playlist/arshsaxena-aaahx-favorite" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/gaana.png" height="28" width="19"></a>&nbsp;
   <a href="https://www.youtube.com/channel/UC8QAtZHZy9DApConhuO5n-A" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/youtube.svg" height="24" width="34" vertical-aling="center"></a>
 </p>
 <p align="center">

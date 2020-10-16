@@ -21,4 +21,5 @@
 </a>
   <br><br><br>
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>
+  ![Made with Love in India](https://madewithlove.org.in/badge.svg)
 </p>

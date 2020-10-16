@@ -20,5 +20,6 @@
   <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arshsaxena&show_icons=true&include_all_commits=true&theme=dark" alt="Arsh's GitHub stats">
 </a>
   <br><br><br>
-  <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" />
+  <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>
+  ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 </p>

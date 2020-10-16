@@ -20,5 +20,5 @@
 </a>
   <br><br><br>
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br><br>
-  <img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/india.png" height="110" />
+  <img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/india.png" height="40" />
 </p>

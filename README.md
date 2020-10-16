@@ -13,7 +13,6 @@
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arshsaxena&layout=compact&theme=dark">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,5 +20,4 @@
 </a>
   <br><br><br>
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>
-  ![Made with Love in India](https://www.madewithlove.org.in/badge.svg)
 </p>

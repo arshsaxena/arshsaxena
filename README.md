@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/arshsaxena/" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.svg" height="31" width="44"></a>
   <a href="https://gaana.com/playlist/arshsaxena-aaahx-favorite" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/gaana.png" height="31" width="20"></a>
   <a href="https://twitch.tv/arshsaxena02" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/twitch.svg" height="32" width="44"></a>
-  <a href="https://www.youtube.com/channel/UC8QAtZHZy9DApConhuO5n-A" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/youtube.png" height="31" width="37"></a>
+  <a href="https://www.youtube.com/channel/UC8QAtZHZy9DApConhuO5n-A" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/youtube.png" height="24" width="37"></a>
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">

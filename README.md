@@ -12,7 +12,7 @@
   <a href="https://www.twitter.com/arshsaxena02" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/twitter.svg" height="27" width="33"></a>
   <a href="https://www.linkedin.com/in/arshsaxena/" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.svg" height="31" width="44"></a>
   <a href="https://gaana.com/playlist/arshsaxena-aaahx-favorite" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/gaana.png" height="29" width="19"></a>
-  <a href="https://stackoverflow.com/users/14446031/arsh-saxena?tab=profile" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/stackoverflow.svg" height="30" width="42"></a>
+  <a href="https://stackoverflow.com/users/14446031/arsh-saxena?tab=profile" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/stackoverflow.svg" height="40" width="52"></a>
   <a href="https://twitch.tv/arshsaxena02" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/twitch.svg" height="30" width="42"></a>
   <a href="https://www.youtube.com/channel/UC8QAtZHZy9DApConhuO5n-A" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/youtube.png" height="25" width="35"></a>
 </p>

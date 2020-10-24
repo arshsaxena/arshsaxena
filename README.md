@@ -2,7 +2,6 @@
 <h3 align="center">I'm Arsh, a coding beginner; currently studying in Class X.</h3>
 <p align="center">🌱 I’m currently learning <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>C++ basic</b>.<br>
 💬 I’m have learnt <b>Python basic</b>.</p>
-<br />
 <p align="center">
   <a href="mailto:arsh.saxena02@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/d2a0b844ce50067559feb078c6d458ada1b8c101/icons/gmail.svg" height="32" width="44"></a>
   <a href="https://t.me/arshsaxena" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/f4bb535edf6fb700dcc4c65c386594849643a4dc/icons/telegram.svg" height="32" width="44"></a>&nbsp;

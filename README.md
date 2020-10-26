@@ -1,6 +1,6 @@
 <h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I'm Arsh, a coding beginner; currently studying in Class X.</h3>
-<p align="center">🌱 I’m currently learning <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>C++ basic</b>.<br>
+<p align="center">🌱 I’m currently learning <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>C++ (Class XI)</b>.<br>
 💬 I’m have learnt <b>Python basic</b>.</p>
 <br>
 <p align="center">

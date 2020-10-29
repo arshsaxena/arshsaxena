@@ -1,7 +1,9 @@
 <h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I'm Arsh, a coding beginner; currently studying in Class X.</h3>
-<p align="center">🌱 I’m currently learning <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>C++ (Class XI)</b>.<br>
-💬 I’m have learnt <b>Python basic</b>.</p>
+<p align="center">
+  🌐 <b>My website: </b> arshsaxena.github.io
+  🌱 I’m currently learning <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>C++ (Class XI)</b>.<br>    
+  💬 I’m have learnt <b>Python basic</b>.</p>
 <br>
 <p align="center">
   <a href="mailto:arsh.saxena02@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/d2a0b844ce50067559feb078c6d458ada1b8c101/icons/gmail.svg" height="32" width="44"></a>

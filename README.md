@@ -17,10 +17,10 @@
   <a href="https://www.youtube.com/channel/UC8QAtZHZy9DApConhuO5n-A" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/youtube.png" height="25" width="35"></a>
 </p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+<a href="https://github.com/arshsaxena/arshsaxena" align="center">
   <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arshsaxena&layout=compact&theme=dark">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/arshsaxena/arshsaxena">
   <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arshsaxena&show_icons=true&include_all_commits=true&theme=dark" alt="Arsh's GitHub stats">
 </a>
   <br><br><br>

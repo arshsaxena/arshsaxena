@@ -2,7 +2,7 @@
 <h3 align="center">I'm Arsh, a coding beginner; currently studying in Class X.</h3>
 <p align="center">
   🌐 <b>My website: </b><a href="https://arshsaxena.github.io">arshsaxena.github.io</a> <br>
-  🌱 I’m currently learning <b>Game Development with Python (Pygame)</b>, and <b>Web Development</b>.<br>    
+  🌱 I’m currently learning <b>Game Development with Python (Pygame)</b> and <b>Web Development</b>.<br>    
   💬 I’m have learnt <b>Python basic</b>.</p>
 <br>
 <p align="center">

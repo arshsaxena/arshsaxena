@@ -3,7 +3,7 @@
 <p align="center">
   🌐 <b>My website: </b><a href="https://arshsaxena.github.io">arshsaxena.github.io</a> <br>
 <!--   🌱 I’m currently learning .<br>     -->
-  💬 I’m have learnt <b>Python basic</b>, <b>Game Development with Python (Pygame)</b>, and <b>Web Development</b>.</p>
+  💬 I’m have learnt <b>Python basic</b>, <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>SQL</b>.</p>
 <br>
 <p align="center">
   <a href="mailto:arsh.saxena02@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/d2a0b844ce50067559feb078c6d458ada1b8c101/icons/gmail.svg" height="32" width="44"></a>

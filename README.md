@@ -31,3 +31,6 @@
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>
   <img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/india.png" height="40" />
 </p>
+<a href="https://github.com/arshsaxena/arshsaxena">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=arshsaxena&bg_color=151515&color=ffffff&line=396c45&point=5cbb70&area=true&hide_border=true" alt="Arsh's GitHub stats">
+</a>

@@ -24,9 +24,8 @@
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshsaxena&amp;layout=compact&amp;theme=dark">
 </a>
 <br>
-<br>
 <a href="https://github.com/arshsaxena/arshsaxena">
-  <img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com?user=arshsaxena&amp;theme=dark&amp;border=DDDDDD" alt="Arsh's GitHub stats">
+  <img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com?user=arshsaxena&amp;theme=dark&amp;border=DDDDDD" alt="Arsh's GitHub stats" padding="5">
 </a>
   <br><br><br>
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>

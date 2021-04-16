@@ -21,7 +21,7 @@
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=arshsaxena&show_icons=true&theme=dark">
 </a>
 <a href="https://github.com/arshsaxena/arshsaxena">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshsaxena&layout=compact&theme=dark">
+  <img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com?user=arshsaxena&amp;theme=dark&amp;border=DDDDDD">
 </a>
 <br>
 <a href="https://github.com/arshsaxena/arshsaxena">

@@ -21,7 +21,11 @@
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=arshsaxena&show_icons=true&theme=dark">
 </a>
 <a href="https://github.com/arshsaxena/arshsaxena">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshsaxena&layout=compact&theme=dark" alt="Arsh's GitHub stats">
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshsaxena&layout=compact&theme=dark">
+</a>
+<br>
+<a href="https://github.com/arshsaxena/arshsaxena">
+  <img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=arshsaxena&" alt="Arsh's GitHub stats">
 </a>
   <br><br><br>
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>

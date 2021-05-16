@@ -1,5 +1,5 @@
 <h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center">I'm Arsh, a coding beginner; currently studying in Class X.</h3>
+<h3 align="center">I'm Arsh, a coding beginner; currently studying in Class XI.</h3>
 <p align="center">
   🌐 <b>My website: </b><a href="https://arshsaxena.github.io">arshsaxena.github.io</a> <br>
 <!--   🌱 I’m currently learning .<br>     -->

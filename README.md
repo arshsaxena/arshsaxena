@@ -6,14 +6,13 @@
   💬 I’m have learnt <b>Python basic</b>, <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>SQL</b>.</p>
 <br>
 <p align="center">
-  <a href="https://t.me/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/telegram.png" height="35" width="35" border-radius="10"></a>&nbsp;
-  <a href="https://facebook.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/facebook.png" height="35" width="35" border-radius="10"></a>&nbsp;
-  <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="32" width="44"></a>&nbsp;
-  <a href="https://www.reddit.com/u/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/reddit.png" height="35" width="35" border-radius="10"></a>&nbsp;
-  <a href="https://www.twitter.com/arshsaxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/twitter.png" height="35></a>
-  <a href="https://www.linkedin.com/in/arshsaxena/" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.png" height="35" width="35" border-radius="10"></a>
-  <a href="https://open.spotify.com/playlist/1BcNdeQ1JG3GVHF9cKG5Wb" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/spotify.png"  height="35" width="35" border-radius="10"></a>&nbsp;
-  <a href="https://www.youtube.com/channel/UC8QAtZHZy9DApConhuO5n-A" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/youtube.png" height="35" width="35" border-radius="10"></a>
+  <a href="https://t.me/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/telegram.png" height="35" width="35" border-radius="10"></a>&nbsp;&nbsp;
+  <a href="https://facebook.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/facebook.png" height="35" width="35" border-radius="10"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="32" width="44"></a>&nbsp;&nbsp;
+  <a href="https://www.reddit.com/u/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/reddit.png" height="35" width="35" border-radius="10"></a>&nbsp;&nbsp;
+  <a href="https://www.twitter.com/arshsaxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/twitter.png" height="35"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arshsaxena/" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.png" height="35" width="35" border-radius="10"></a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/playlist/1BcNdeQ1JG3GVHF9cKG5Wb" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/spotify.png"  height="35" width="35" border-radius="10"></a>
 </p>
 <p align="center">
 <a href="https://github.com/arshsaxena/arshsaxena" align="center">

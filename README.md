@@ -6,9 +6,9 @@
   💬 I’m have learnt <b>Python basic</b>, <b>Game Development with Python (Pygame)</b>, <b>Web Development</b>, and <b>SQL</b>.</p>
 <br>
 <p align="center">
-  <a href="https://t.me/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/f4bb535edf6fb700dcc4c65c386594849643a4dc/icons/telegram.png" height="35" width="35" border-radius="10"></a>&nbsp;
+  <a href="https://t.me/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/telegram.png" height="35" width="35" border-radius="10"></a>&nbsp;
   <a href="https://facebook.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/facebook.png" height="35" width="35" border-radius="10"></a>&nbsp;
-  <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/f4bb535edf6fb700dcc4c65c386594849643a4dc/icons/instagram.png" height="32" width="44"></a>&nbsp;
+  <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="32" width="44"></a>&nbsp;
   <a href="https://www.reddit.com/u/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/reddit.png" height="35" width="35" border-radius="10"></a>&nbsp;
   <a href="https://www.twitter.com/arshsaxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/twitter.png" height="35></a>
   <a href="https://www.linkedin.com/in/arshsaxena/" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.png" height="35" width="35" border-radius="10"></a>

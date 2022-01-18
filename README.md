@@ -1,9 +1,9 @@
 <h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="left">I'm Arsh Saxena, a student, a video editor, and a coder from India, currently in class XI studying Physics, Chemistry, Mathematics, English, and Computer Science. I love Mathematics, Physics, and Computer Science. I also have an interest in tech. And also love shoes.
+<h3 align="left">I’m Arsh Saxena, a student, a video editor, and a coder from India, currently in class XI studying Physics, Chemistry, Mathematics, English, and Computer Science. I love Mathematics, Physics, and Computer Science. I also have an interest in tech. And also love shoes.
 </h3>
 <p align="left">
   🌐 My website: <b><a href="https://arshsaxena.github.io">arshsaxena.github.io</a></b> <br>
-  💬 I am skilled in <b>Python</b>, <b>Game Development with Python (Pygame)</b>, <b>HTML</b>, <b>CSS</b>, and <b>SQL</b>. <br>
+  💬 I’m skilled in <b>Python</b>, <b>Game Development with Python (Pygame)</b>, <b>HTML</b>, <b>CSS</b>, and <b>SQL</b>. <br>
   🌱 I’m currently learning <b>JavaScript</b> and <b>C++</b>.
 </p>
 <br>

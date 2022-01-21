@@ -8,7 +8,6 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://t.me/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/telegram.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/facebook.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.reddit.com/u/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/reddit.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;

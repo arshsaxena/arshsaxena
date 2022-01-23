@@ -20,7 +20,7 @@
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=arshsaxena&show_icons=true&theme=dark">
 </a>
 <a href="https://github.com/arshsaxena/arshsaxena">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshsaxena&amp;layout=compact&amp;theme=dark">
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshsaxena&amp;layout=compact&amp;theme=dark&langs_count=10">
 </a>
 <br>
 <a href="https://github.com/arshsaxena/arshsaxena">

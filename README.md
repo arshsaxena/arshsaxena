@@ -2,7 +2,7 @@
 <h3 align="left">I’m Arsh Saxena, a student, a video editor, and a coder from India, currently in class XI studying Physics, Chemistry, Mathematics, English, and Computer Science. I love Mathematics, Physics, and Computer Science. I also have an interest in tech. And also love shoes.
 </h3>
 <p align="left">
-  🌐 <b>My website: <a href="arshsaxena.in">arshsaxena.github.io</a></b> <br>
+  🌐 <b>My website: <a href="https://www.arshsaxena.in">arshsaxena.in</a></b> <br>
   💬 I’m skilled in <b>Python</b>, <b>Game Development with Python (Pygame)</b>, <b>HTML</b>, <b>CSS</b>, and <b>SQL</b>. <br>
   🌱 I’m currently learning <b>JavaScript</b> and <b>C++</b>.
 </p>

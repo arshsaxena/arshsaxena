@@ -3,6 +3,7 @@
 </h3>
 <p align="left">
   🌐 <b>My website: <a href="https://www.arshsaxena.in">arshsaxena.in</a></b> <br>
+  📚 <b>My projects: <a href="https://conveter.arshsaxena.in">aConverter</a>, <a href="https://qr.arshsaxena.in">QR Code Generator</a>, <a href="https://solarsystem.arshsaxena.in">Solar System</a></b> <br>
   💬 I’m skilled in <b>Python</b>, <b>Game Development with Python (Pygame)</b>, <b>HTML</b>, <b>CSS</b>, and <b>SQL</b>. <br>
   🌱 I’m currently learning <b>JavaScript</b> and <b>C++</b>.
 </p>

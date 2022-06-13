@@ -1,4 +1,4 @@
-<h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" width="40px" /></h1>
 <h3 align="left">I’m Arsh Saxena, a student, a video editor, and a coder from India, currently in class XII studying Physics, Chemistry, Mathematics, English, and Computer Science. I love Mathematics, Physics, and Computer Science. I also have an interest in tech. And also love shoes.
 <br>
 📚 👨🏻‍💻 📷 📽 💻 👟

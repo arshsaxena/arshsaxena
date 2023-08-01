@@ -10,11 +10,11 @@ Beyond coding, I do photography, video editing, and photo editing. I am quite fl
 
 Let's connect, ping me anywhere!🤘🏻
 <p>
-    <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/arshsaxena/" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.twitter.com/arshsaxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/x.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.reddit.com/u/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/reddit.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://facebook.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/facebook.png" height="50" width="50"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="50" width="50"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/arshsaxena/" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.png" height="50" width="50"></a>&nbsp;&nbsp;
+    <a href="https://www.twitter.com/arshsaxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/x.png" height="50" width="50"></a>&nbsp;&nbsp;
+    <a href="https://www.reddit.com/u/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/reddit.png" height="50" width="50"></a>&nbsp;&nbsp;
+    <a href="https://facebook.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/facebook.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://open.spotify.com/playlist/5GrCNAmAXGSQ3VVA9JS9zw?si=65ef34622fad4e1d&nd=1" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/spotify.png"  height="50" width="50"></a>
 </p>
 

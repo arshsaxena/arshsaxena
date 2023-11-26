@@ -6,7 +6,7 @@ I am skilled in Python, Pygame, HTML, CSS, JavaScript, PHP, and SQL. Currently, 
 
 Beyond coding, I do photography, video editing, and photo editing. I am quite fluent in English, I also enjoy writing engaging content, particularly focusing on English comprehension for students. In my free time, I watch movies and TV shows, and I have a hobby of collecting sneakers.
 
-📚 👨🏻‍💻 📷 📽 💻 🖊️ 👟
+<h3>📚 👨🏻‍💻 📷 📽 💻 🖊️ 👟</h3>
 
 Let's connect, ping me anywhere!🤘🏻
 <p>

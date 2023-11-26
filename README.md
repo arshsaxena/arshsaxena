@@ -1,4 +1,4 @@
-<h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" width="40px"/></h1>
+<h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="35px"/></h1>
 
 I'm <a href="https://arshsaxena.in">Arsh Saxena</a>, a developer, and student pursuing B.Tech. in Electronics and Communication Engineering. With a strong foundation in Physics, Chemistry, and Mathematics with Computer Science, I love coding.
 

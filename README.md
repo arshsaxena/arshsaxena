@@ -1,4 +1,4 @@
-<h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" width="40px"/></h1>
+<h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="35px"/></h1>
 
 I'm <a href="https://arshsaxena.in">Arsh Saxena</a>, a developer, and student pursuing B.Tech. in Electronics and Communication Engineering. With a strong foundation in Physics, Chemistry, and Mathematics with Computer Science, I love coding.
 
@@ -6,7 +6,7 @@ I am skilled in Python, Pygame, HTML, CSS, JavaScript, PHP, and SQL. Currently, 
 
 Beyond coding, I do photography, video editing, and photo editing. I am quite fluent in English, I also enjoy writing engaging content, particularly focusing on English comprehension for students. In my free time, I watch movies and TV shows, and I have a hobby of collecting sneakers.
 
-📚 👨🏻‍💻 📷 📽 💻 🖊️ 👟
+<h3>📚 👨🏻‍💻 📷 📽 💻 🖊️ 👟</h3>
 
 Let's connect, ping me anywhere!🤘🏻
 <p>

@@ -15,7 +15,7 @@ Let's connect, ping me anywhere!🤘🏻
     <a href="https://www.twitter.com/arshsaxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/x.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://www.reddit.com/u/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/reddit.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://facebook.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/facebook.png" height="50" width="50"></a>&nbsp;&nbsp;
-    <a href="https://open.spotify.com/playlist/5GrCNAmAXGSQ3VVA9JS9zw?si=65ef34622fad4e1d&nd=1" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/spotify.png"  height="50" width="50"></a>
+    <a href="https://music.apple.com/in/playlist/arshs-favourites/pl.u-yZyVWPrCd3zXWGe" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/apple-music.png"  height="50" width="50"></a>
 </p>
 
 <h2>Projects</h2>

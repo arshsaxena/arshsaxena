@@ -33,6 +33,14 @@ Let's connect, ping me anywhere!🤘🏻
     • <a href="https://solarsystem.arshsaxena.in"><b>Solar System</a>: </b>The solar system is made with HTML, CSS, and JavaScript. See years passing with your eyes in seconds. Plutofied! :)
 </p>
 
+<be>
+
+<h2>Contributions</h2>
+<p>
+    • <a href="https://github.com/arshsaxena/zypher"><b>@cyscom's Zypher</a>:</b> Major contribution in landing page development for the CTF event.
+</p>
+
+<br>
 <br>
 
 <p align="center">

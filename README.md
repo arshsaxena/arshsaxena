@@ -2,7 +2,7 @@
 
 I'm <a href="https://arshsaxena.in">Arsh Saxena</a>, a developer, and student pursuing B.Tech. in Electronics and Communication Engineering. With a strong foundation in Physics, Chemistry, and Mathematics with Computer Science, I love coding.
 
-I also do photography, video editing, and photo editing. I am quite fluent in English, I also enjoy writing engaging content, particularly focusing on English comprehension for students. In my free time, I watch movies and TV shows, and I have a hobby of collecting sneakers.
+I also do photography, video editing, and photo editing. I am quite fluent in English, I also enjoy writing engaging content, particularly focusing on English composition for students. In my free time, I watch movies and TV shows, and I have a hobby of collecting sneakers.
 
 <h3>📚 👨🏻‍💻 📷 📽 💻 🖊️ 👟</h3>
 

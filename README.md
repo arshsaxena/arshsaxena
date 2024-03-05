@@ -51,6 +51,8 @@ Let's connect, ping me anywhere!🤘🏻
 <h2>🌐 Contributions</h2>
 <p>
     • <a href="https://github.com/arshsaxena/zypher"><b>@cyscom's Zypher</a>:</b> Major contribution in landing page development for the CTF event.
+    <br>
+    • <a href="https://github.com/arshsaxena/cyscom-landing-page-2024"><b>@cyscom's Website</a>:</b> Major contribution in landing page development for the chapter.
 </p>
 
 <br>

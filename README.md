@@ -26,6 +26,7 @@ Let's connect, ping me anywhere!🤘🏻
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-3670A0.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/pygame-234ea94b.svg?style=for-the-badge&logo=pygame&logoColor=234ea94b">
     <img src="https://img.shields.io/badge/php-%23316192.svg?style=for-the-badge&logo=phpl&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white">

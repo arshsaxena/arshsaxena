@@ -30,7 +30,7 @@ Let's connect, ping me anywhere!🤘🏻
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/pygame-234ea94b.svg?style=for-the-badge&logo=pygame&logoColor=234ea94b">
-    <img src="https://img.shields.io/badge/php-%23316192.svg?style=for-the-badge&logo=phpl&logoColor=white">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/git-fc6d26?style=for-the-badge&logo=git&logoColor=white">

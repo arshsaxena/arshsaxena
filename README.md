@@ -57,7 +57,9 @@ Let's connect, ping me anywhere!🤘🏻
 <p>
     • <a href="https://github.com/arshsaxena/zypher"><b>@cyscom's Zypher</a>:</b> Major contribution in landing page development for the CTF event.
     <br>
-    • <a href="https://github.com/arshsaxena/cyscom-landing-page-2024"><b>@cyscom's Website</a>:</b> Major contribution in landing page development for the chapter.
+    • <a href="https://github.com/arshsaxena/cyscom-landing-page-2024"><b>@cyscom's Website</a>:</b> Developed and styled a major part of the chapter's landing page in React.js with Tailwind CSS.
+    <br>
+    • <a href="https://github.com/arshsaxena/mic-email-client-frontend"><b>@micvitc's Email Client</a>:</b> Developed the complete frontend UI of the email client, using React.js and Tailwind CSS, for internal club usage.
 </p>
 
 <br>

@@ -40,26 +40,41 @@ Let's connect, ping me anywhere!🤘🏻
 
 <h2>🗃️ Projects</h2>
 <p>
-    • <a href="https://education.arshsaxena.in"><b>aEducational</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs written by me.
-    <br>
-    • <a href="https://converter.arshsaxena.in"><b>aConverter</a>:</b> Convert length, mass, temperature, and speed in multiple units.
-    <br>
-    • <a href="https://weather.arshsaxena.in"><b>Weather</a>:</b> Get the current temperature, feels like temperature, minimum temperature, maximum temperature, clouds cover, pressure, humidity, wind speed, and wind direction of any place.
-    <br>
-    • <a href="https://colors.arshsaxena.in"><b>Colors</a>:</b> Very simple and free random color generator. Also supports color code input.
-    <br>
-    • <a href="https://qr.arshsaxena.in"><b>QR Code Generator</a>:</b> Convert any text, website, phone number, email, etc. to a QR code. Download the QR code image and share it just like you share other images.
-    <br>
-    • <a href="https://solarsystem.arshsaxena.in"><b>Solar System</a>: </b>The solar system is made with HTML, CSS, and JavaScript. See years passing with your eyes in seconds. Plutofied! :)
+    <ul>
+        <li>
+            <a href="https://education.arshsaxena.in"><b>aEducational</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs written by me.
+        </li>
+        <li>
+            <a href="https://converter.arshsaxena.in"><b>aConverter</a>:</b> Convert length, mass, temperature, and speed in multiple units.
+        </li>
+        <li>
+            <a href="https://weather.arshsaxena.in"><b>Weather</a>:</b> Get the current temperature, feels like temperature, minimum temperature, maximum temperature, clouds cover, pressure, humidity, wind speed, and wind direction of any place.
+        </li>
+        <li>
+            <a href="https://colors.arshsaxena.in"><b>Colors</a>:</b> Very simple and free random color generator. It also supports color code input.
+        </li>
+        <li>
+            <a href="https://qr.arshsaxena.in"><b>QR Code Generator</a>:</b> Convert any text, website, phone number, email, etc. to a QR code. Download the QR code image and share it like other images.
+        </li>
+        <li>
+            <a href="https://solarsystem.arshsaxena.in"><b>Solar System</a>: </b>The solar system is made with HTML, CSS, and JavaScript. See years passing with your eyes in seconds. Plutofied! :)
+        </li>
+    </ul>
 </p>
 
 <h2>🌐 Contributions</h2>
 <p>
-    • <a href="https://github.com/arshsaxena/zypher"><b>@cyscom's Zypher</a>:</b> Major contribution in landing page development for the CTF event.
-    <br>
-    • <a href="https://github.com/arshsaxena/cyscom-landing-page-2024"><b>@cyscom's Website</a>:</b> Developed and styled a major part of the chapter's landing page in React.js with Tailwind CSS.
-    <br>
-    • <a href="https://github.com/arshsaxena/mic-email-client-frontend"><b>@micvitc's Email Client</a>:</b> Developed the complete frontend UI of the email client, using React.js and Tailwind CSS, for internal club usage.
+    <ul>
+        <li>
+            <a href="https://github.com/arshsaxena/zypher"><b>@cyscom's Zypher</a>:</b> Major contribution in landing page development for the CTF event.
+        </li>
+        <li>
+            <a href="https://github.com/arshsaxena/cyscom-landing-page-2024"><b>@cyscom's Website</a>:</b> Developed and styled a major part of the chapter's landing page in React.js with Tailwind CSS.
+        </li>
+        <li>
+            <a href="https://github.com/arshsaxena/mic-email-client-frontend"><b>@micvitc's Email Client</a>:</b> Developed the complete frontend UI of the email client, using React.js and Tailwind CSS, for internal club usage.
+        </li>
+    </ul>
 </p>
 
 <br>

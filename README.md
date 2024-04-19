@@ -71,9 +71,6 @@ Let's connect, ping me anywhere!🤘🏻
         <li>
             <a href="https://github.com/arshsaxena/cyscom-landing-page-2024"><b>@cyscom's Website</a>:</b> Developed and styled a major part of the chapter's landing page in React.js with Tailwind CSS.
         </li>
-        <li>
-            <a href="https://github.com/arshsaxena/mic-email-client-frontend"><b>@micvitc's Email Client</a>:</b> Developed the complete frontend UI of the email client, using React.js and Tailwind CSS, for internal club usage.
-        </li>
     </ul>
 </p>
 

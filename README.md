@@ -9,10 +9,9 @@ I also do photography, video editing, and photo editing. I am quite fluent in En
 Let's connect, ping me anywhere!🤘🏻
 
 <p>
-    <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/arshsaxena/" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.png" height="50" width="50"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://www.twitter.com/arshsaxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/x.png" height="50" width="50"></a>&nbsp;&nbsp;
-    <a href="https://www.reddit.com/u/arshsaxena" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/reddit.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://facebook.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/facebook.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://music.apple.com/in/playlist/arshs-favourites/pl.u-yZyVWPrCd3zXWGe" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/apple-music.png"  height="50" width="50"></a>
 </p>
@@ -67,6 +66,9 @@ Let's connect, ping me anywhere!🤘🏻
     <ul>
         <li>
             <a href="https://github.com/arshsaxena/zypher"><b>@cyscom's Zypher</a>:</b> Major contribution in landing page development for the CTF event.
+        </li>
+        <li>
+            <a href="https://github.com/cyscom/recruitments"><b>@cyscom's Recruitments 2024-25 Portal</a>:</b> Developed a major part of the front-end using Next.js and Tailwind CSS.
         </li>
         <li>
             <a href="https://github.com/arshsaxena/cyscom-landing-page-2024"><b>@cyscom's Website</a>:</b> Developed and styled a major part of the chapter's landing page in React.js with Tailwind CSS.

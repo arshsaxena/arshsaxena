@@ -68,7 +68,7 @@ Let's connect, ping me anywhere!🤘🏻
             <a href="https://github.com/arshsaxena/zypher"><b>@cyscom's Zypher</a>:</b> Major contribution in landing page development for the CTF event.
         </li>
         <li>
-            <a href="https://github.com/cyscom/recruitments"><b>@cyscom's Recruitments 2024-25 Portal</a>:</b> Developed a major part of the front-end using Next.js and Tailwind CSS.
+            <a href="https://github.com/cyscomvit/recruitments"><b>@cyscom's Recruitments 2024-25 Portal</a>:</b> Developed a major part of the front-end using Next.js and Tailwind CSS.
         </li>
         <li>
             <a href="https://github.com/arshsaxena/cyscom-landing-page-2024"><b>@cyscom's Website</a>:</b> Developed and styled a major part of the chapter's landing page in React.js with Tailwind CSS.

@@ -1,6 +1,6 @@
 <h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="35px"/></h1>
 
-I'm <a href="https://arshsaxena.in" target="_blank"><b>Arsh Saxena</b></a>, a developer, and student pursuing B.Tech. in Electronics and Communication Engineering. With a strong foundation in Physics, Chemistry, and Mathematics with Computer Science, I love coding.
+I'm <a href="https://arshsaxena.in" target="_blank"><b>Arsh Saxena</b></a>, a developer, and pursuing a B.Tech. in Electronics and Communication Engineering. I have a strong interest in programming and web development, and I am proficient in Python and C++. I enjoy exploring new technologies and continuously improving my skills. 
 
 I also do photography, video editing, and photo editing. I am quite fluent in English, I also enjoy writing engaging content, particularly focusing on English composition for students. In my free time, I watch movies and TV shows, and I have a hobby of collecting sneakers.
 
@@ -23,6 +23,7 @@ Let's connect, ping me anywhere!🤘🏻
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-3670A0.svg?style=for-the-badge&logo=css3&logoColor=white">

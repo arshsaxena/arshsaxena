@@ -12,7 +12,6 @@ Let's connect, ping me anywhere!🤘🏻
     <a href="https://www.linkedin.com/in/arshsaxena/" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://www.twitter.com/arshsaxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/x.png" height="50" width="50"></a>&nbsp;&nbsp;
-    <a href="https://facebook.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/facebook.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://music.apple.com/in/playlist/arshs-favourites/pl.u-yZyVWPrCd3zXWGe" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/apple-music.png"  height="50" width="50"></a>
 </p>
 

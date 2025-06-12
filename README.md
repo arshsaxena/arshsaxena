@@ -1,6 +1,6 @@
 <h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="35px"/></h1>
 
-I'm <a href="https://www.arshsaxena.in/" target="_blank"><b>Arsh Saxena</b></a>, a developer, and pursuing a B.Tech. in Electronics and Communication Engineering. I have a strong interest in programming and web development, and I’m proficient in Python and C++. I love exploring new technologies and constantly improving my skills.
+I'm <a href="https://www.arshsaxena.in/" target="_blank"><b>Arsh Saxena</b></a>, a developer currently pursuing a B.Tech. in Electronics and Communication Engineering. I have a strong interest in programming and web development, and I’m proficient in Python and C++. I love exploring new technologies and constantly improving my skills.
 
 Beyond coding, I’m into photography, video editing, and photo editing. I also enjoy writing engaging content, especially in English composition. In my free time, I watch movies and TV shows, and I collect sneakers as a hobby.
 
@@ -24,6 +24,7 @@ Let's connect, ping me anywhere.🤘🏻
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
     <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-3670A0.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
@@ -39,6 +40,12 @@ Let's connect, ping me anywhere.🤘🏻
 <h2>🗃️ Projects</h2>
 <p>
     <ul>
+         <li>
+            <a href="https://nptelcompanion.arshsaxena.in"><b>NPTEL Companion</a>:</b> Prepare with weekly and full-length quizzes from real NPTEL courses. Designed for efficient revision and last-minute prep.
+        </li>
+         <li>
+            <a href="https://vitcfacultyinfo.arshsaxena.in"><b>VIT Chennai Faculty Information</a>:</b> Find comprehensive details quickly about the faculty members using smart filters and keyword search.
+        </li>
         <li>
             <a href="https://education.arshsaxena.in"><b>aEducational</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs - all written by me. Perfect for students and learners.
         </li>

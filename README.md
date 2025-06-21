@@ -26,7 +26,7 @@ Let's connect, ping me anywhere.🤘🏻
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
     <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css-3670A0.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/css-%233670A0.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -41,28 +41,28 @@ Let's connect, ping me anywhere.🤘🏻
 <p>
     <ul>
          <li>
-            <a href="https://nptelcompanion.arshsaxena.in"><b>NPTEL Companion</a>:</b> Prepare with weekly and full-length quizzes from real NPTEL courses. Designed for efficient revision and last-minute prep.
+            📝 <a href="https://nptelcompanion.arshsaxena.in"><b>NPTEL Companion</a>:</b> Prepare with weekly and full-length quizzes from real NPTEL courses. Designed for efficient revision and last-minute prep.
         </li>
          <li>
-            <a href="https://vitcfacultyinfo.arshsaxena.in"><b>VIT Chennai Faculty Information</a>:</b> Find comprehensive details quickly about the faculty members using smart filters and keyword search.
+            👨🏻‍🏫 <a href="https://vitcfacultyinfo.arshsaxena.in"><b>VIT Chennai Faculty Information</a>:</b> Find comprehensive details quickly about the faculty members using smart filters and keyword search.
         </li>
         <li>
-            <a href="https://education.arshsaxena.in"><b>aEducational</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs - all written by me. Perfect for students and learners.
+            📖 <a href="https://education.arshsaxena.in"><b>aEducational</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs - all written by me. Perfect for students and learners.
         </li>
         <li>
-            <a href="https://converter.arshsaxena.in"><b>aConverter</a>:</b> Easily switch between units of length, mass, temperature, and speed. More categories coming soon!
+            🔄 <a href="https://converter.arshsaxena.in"><b>aConverter</a>:</b> Easily switch between units of length, mass, temperature, and speed. More categories coming soon!
         </li>
         <li>
-            <a href="https://solarsystem.arshsaxena.in"><b>Solar System</a>: </b>Built with HTML, CSS, and JavaScript - watch years fly by in seconds. Yes, even Pluto is here.
+            🪐 <a href="https://solarsystem.arshsaxena.in"><b>Solar System</a>: </b>Built with HTML, CSS, and JavaScript - watch years fly by in seconds. Yes, even Pluto is here.
         </li>
         <li>
-            <a href="https://colors.arshsaxena.in"><b>Colors</a>:</b> Get HEX, RGB, and RGBA values in a click. Also supports custom input.
+            🎨 <a href="https://colors.arshsaxena.in"><b>Colors</a>:</b> Get HEX, RGB, and RGBA values in a click. Also supports custom input.
         </li>
         <li>
-            <a href="https://qr.arshsaxena.in"><b>QR Code Generator</a>:</b> Convert text, websites, phone numbers, emails, and more into QR codes. Download and share like any image.
+            🤳🏻 <a href="https://qr.arshsaxena.in"><b>QR Code Generator</a>:</b> Convert text, websites, phone numbers, emails, and more into QR codes. Download and share like any image.
         </li>
         <li>
-            <a href="https://weather.arshsaxena.in"><b>Weather</a>:</b> Check current temperature, feels-like, highs, lows, pressure, humidity, wind, clouds, and more - for any location.
+            🌦️ <a href="https://weather.arshsaxena.in"><b>Weather</a>:</b> Check current temperature, feels-like, highs, lows, pressure, humidity, wind, clouds, and more - for any location.
         </li>
     </ul>
 </p>

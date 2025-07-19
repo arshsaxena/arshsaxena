@@ -68,10 +68,7 @@ Let's connect, ping me anywhere.🤘🏻
 </p>
 
 <br>
-<br>
 
 <p align="center">
-    <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" />
-    <br>
-    <img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/india.png" height="40">
+    <b>MADE WITH ❤️ IN INDIA</b>
 </p>

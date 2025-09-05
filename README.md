@@ -1,6 +1,6 @@
 <h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="35px"/></h1>
 
-I'm <a href="https://www.arshsaxena.in/" target="_blank"><b>Arsh Saxena</b></a>, a developer currently pursuing a B.Tech. in Electronics and Communication Engineering. I have a strong interest in programming and web development, and I’m proficient in Python and C++. I love exploring new technologies and constantly improving my skills.
+I'm <a href="https://www.arshsaxena.in/" target="_blank"><b>Arsh Saxena</b></a>, a developer currently pursuing a B.Tech. in Electronics and Communication Engineering. I have a strong interest in programming and web development, and I’m proficient in C/C++ and PythonPython. I love exploring new technologies and constantly improving my skills.
 
 Beyond coding, I’m into photography, video editing, and photo editing. I also enjoy writing engaging content, especially in English composition. In my free time, I watch movies and TV shows, and I collect sneakers as a hobby.
 
@@ -44,7 +44,7 @@ Let's connect, ping me anywhere.🤘🏻
             📝 <a href="https://nptelcompanion.arshsaxena.in"><b>NPTEL Companion</a>:</b> Prepare with weekly and full-length quizzes from real NPTEL courses. Designed for efficient revision and last-minute prep.
         </li>
          <li>
-            👨🏻‍🏫 <a href="https://vitcfacultyinfo.arshsaxena.in"><b>VIT Chennai Faculty Information</a>:</b> FFind faculty details instantly with smart filters and fast search, and share anonymous 1-5 star ratings across five parameters to guide others.
+            👨🏻‍🏫 <a href="https://vitcfacultyinfo.arshsaxena.in"><b>VIT Chennai Faculty Information</a>:</b> Find faculty details instantly with smart filters and fast search, and share anonymous 1-5 star ratings across five parameters to guide others.
         </li>
         <li>
             📖 <a href="https://education.arshsaxena.in"><b>aEducational</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs - all written by me. Perfect for students and learners.

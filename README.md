@@ -1,6 +1,6 @@
 <h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="35px"/></h1>
 
-I'm <a href="https://www.arshsaxena.in/" target="_blank"><b>Arsh Saxena</b></a>, a developer currently pursuing a B.Tech. in Electronics and Communication Engineering. I have a strong interest in programming and web development, and I’m proficient in C/C++ and PythonPython. I love exploring new technologies and constantly improving my skills.
+I'm <a href="https://www.arshsaxena.in/" target="_blank"><b>Arsh Saxena</b></a>, a developer currently pursuing a B.Tech. in Electronics and Communication Engineering. I have a strong interest in programming and web development, and I’m proficient in C/C++ and Python. I love exploring new technologies and constantly improving my skills.
 
 Beyond coding, I’m into photography, video editing, and photo editing. I also enjoy writing engaging content, especially in English composition. In my free time, I watch movies and TV shows, and I collect sneakers as a hobby.
 

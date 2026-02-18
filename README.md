@@ -50,7 +50,7 @@ Let's connect, ping me anywhere.🤘🏻
             📝 <a href="https://nptelcompanion.arshsaxena.in"><b>NPTEL Companion</a>:</b> Prepare with weekly and full-length quizzes from real NPTEL courses. Designed for efficient revision and last-minute prep.
         </li>
         <li>
-            📖 <a href="https://education.arshsaxena.in"><b>aEducational</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs - all written by me. Perfect for students and learners.
+            📖 <a href="https://education.arshsaxena.in"><b>aEducational by Arsh</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs - all written by me. Perfect for students and learners.
         </li>
         <li>
             👨🏻‍🏫 <a href="https://vitcfacultyinfo.arshsaxena.in"><b>VIT Chennai Faculty Information</a>:</b> Find faculty details instantly with smart filters and fast search.

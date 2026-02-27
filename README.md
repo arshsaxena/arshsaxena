@@ -30,7 +30,7 @@ Let's connect, ping me anywhere.🤘🏻
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-%233670A0.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/matlab-%23e16737.svg?style=for-the-badge">

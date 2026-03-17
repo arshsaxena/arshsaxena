@@ -49,6 +49,9 @@ Let's connect, ping me anywhere.🤘🏻
          <li>
             📝 <a href="https://nptelcompanion.arshsaxena.in"><b>NPTEL Companion</a>:</b> Prepare with weekly and full-length quizzes from real NPTEL courses. Designed for efficient revision and last-minute prep.
         </li>
+         <li>
+            🛠️ <a href="https://chromewebstore.google.com/detail/vinhance/kdpkhnlloacadjadmepfnpdliglafaaf"><b>VInhance</a>:</b> Powerful Chrome extension designed to make VTOP more feature-rich for students across all VIT campuses.
+        </li>
         <li>
             📖 <a href="https://education.arshsaxena.in"><b>aEducational by Arsh</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs - all written by me. Perfect for students and learners.
         </li>

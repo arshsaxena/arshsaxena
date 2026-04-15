@@ -8,12 +8,10 @@ Beyond coding, I’m into photography, video editing, and photo editing. I also 
 
 Let's connect, ping me anywhere.🤘🏻
 
-<p>
-    <a href="https://www.linkedin.com/in/arshsaxena/" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.png" height="50" width="50"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/arsh.saxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="50" width="50"></a>&nbsp;&nbsp;
-    <a href="https://www.twitter.com/arshsaxena02" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/x.png" height="50" width="50"></a>&nbsp;&nbsp;
-    <a href="https://music.apple.com/in/playlist/arshs-favourites/pl.u-yZyVWPrCd3zXWGe" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/apple-music.png"  height="50" width="50"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshsaxena/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arsh.saxena02)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/arshsaxena02)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/in/playlist/arshs-favourites/pl.u-yZyVWPrCd3zXWGe)
 
 <h2>👨🏻‍💻 Skills</h2>
 <p>

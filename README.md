@@ -56,9 +56,6 @@ Let's connect, ping me anywhere.🤘🏻
             📖 <a href="https://education.arshsaxena.in"><b>aEducational by Arsh</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs - all written by me. Perfect for students and learners.
         </li>
         <li>
-            👨🏻‍🏫 <a href="https://vitcfacultyinfo.arshsaxena.in"><b>VIT Chennai Faculty Information</a>:</b> Find faculty details instantly with smart filters and fast search.
-        </li>
-        <li>
             🔄 <a href="https://converter.arshsaxena.in"><b>aConverter</a>:</b> Easily switch between units of length, mass, temperature, and speed. More categories coming soon!
         </li>
         <li>

@@ -55,26 +55,6 @@ Let's connect, ping me anywhere.🤘🏻
         <li>
             📖 <a href="https://education.arshsaxena.in"><b>aEducational by Arsh</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs - all written by me. Perfect for students and learners.
         </li>
-        <li>
-            🔄 <a href="https://converter.arshsaxena.in"><b>aConverter</a>:</b> Easily switch between units of length, mass, temperature, and speed. More categories coming soon!
-        </li>
-        <li>
-            🪐 <a href="https://solarsystem.arshsaxena.in"><b>Solar System</a>: </b>Built with HTML, CSS, and JavaScript - watch years fly by in seconds. Yes, even Pluto is here.
-        </li>
-        <li>
-            🎨 <a href="https://colors.arshsaxena.in"><b>Colors</a>:</b> Get HEX, RGB, and RGBA values in a click. Also supports custom input.
-        </li>
-        <li>
-            🤳🏻 <a href="https://qr.arshsaxena.in"><b>QR Code Generator</a>:</b> Convert text, websites, phone numbers, emails, and more into QR codes. Download and share like any image.
-        </li>
-        <li>
-            🌦️ <a href="https://weather.arshsaxena.in"><b>Weather</a>:</b> Check current temperature, feels-like, highs, lows, pressure, humidity, wind, clouds, and more - for any location.
-        </li>
+        ↗️ <a href="https://www.arshsaxena.in/made-by-arsh">See More</a>
     </ul>
-</p>
-
-<br>
-
-<p align="center">
-    <b>MADE WITH ❤️ IN INDIA</b>
 </p>

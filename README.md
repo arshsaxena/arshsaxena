@@ -1,10 +1,14 @@
 <h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="35px"/></h1>
 
-I'm <a href="https://www.arshsaxena.in/" target="_blank"><b>Arsh Saxena</b></a>, a developer currently pursuing a B.Tech. in Electronics and Communication Engineering. I have a strong interest in programming and web development, and I’m proficient in C/C++ and Python. I love exploring new technologies and constantly improving my skills.
+I'm <a href="https://www.arshsaxena.in/" target="_blank"><b>Arsh Saxena</b></a>, a B.Tech. student in Electronics and Communication Engineering with a strong passion for software development, problem-solving, and building impactful applications. I enjoy turning ideas into practical solutions and continuously expanding my technical expertise.
 
-Beyond coding, I’m into photography, video editing, and photo editing. I also enjoy writing engaging content, especially in English composition. In my free time, I watch movies and TV shows, and I collect sneakers as a hobby.
+My primary programming language is C++, and I also work with Python and JavaScript. I'm currently focused on mastering Data Structures & Algorithms, strengthening my problem-solving skills, and building full-stack web applications while preparing for software engineering roles.
 
-<h3>📚 👨🏻‍💻 📷 📽 💻 🖊️ 👟</h3>
+I enjoy learning new technologies, writing clean and efficient code, and working on projects that challenge me to grow as a developer. I'm always looking for opportunities to improve, whether through personal projects, competitive programming, or exploring modern development tools and frameworks.
+
+Outside of coding, I enjoy photography, photo and video editing, watching movies and TV shows, and collecting sneakers.
+
+<h3>👨🏻‍💻 📷 📽 💻 🖊️ 👟</h3>
 
 Let's connect, ping me anywhere.🤘🏻
 
@@ -46,11 +50,20 @@ Let's connect, ping me anywhere.🤘🏻
 <h2>🗃️ Projects</h2>
 <p>
     <ul>
-         <li>
-            📝 <a href="https://nptelcompanion.arshsaxena.in"><b>NPTEL Companion</a>:</b> Prepare with weekly and full-length quizzes from real NPTEL courses. Designed for efficient revision and last-minute prep.
+        <li>
+            🌐 <a href="https://peerroom.arshsaxena.in"><b>PeerRoom</a>:</b> Instant, private P2P file transfers and real-time collaborative workspaces right in your browser. No registration, no ads, no tracking.
+        </li>
+        <li>
+            🏞️ <a href="https://stackshot.arshsaxena.in"><b>Stackshot</a>:</b> A native macOS utility that captures screenshots into a temporary visual stack, letting you queue, copy, drag, or export them in the order you need.
+        </li>
+        <li>
+            📺 <a href="https://airroomtv.arshsaxena.in"><b>Stackshot</a>:</b> Instant, private screen mirroring and high-fidelity music streaming on your television. No registration, no ads, zero tracking.
+        </li>
+        <li>
+            🛠️ <a href="https://chromewebstore.google.com/detail/vinhance/kdpkhnlloacadjadmepfnpdliglafaaf"><b>VInhance</a>:</b> Powerful Chrome extension designed to make VTOP more feature-rich for students across all VIT campuses.
         </li>
          <li>
-            🛠️ <a href="https://chromewebstore.google.com/detail/vinhance/kdpkhnlloacadjadmepfnpdliglafaaf"><b>VInhance</a>:</b> Powerful Chrome extension designed to make VTOP more feature-rich for students across all VIT campuses.
+            📝 <a href="https://nptelcompanion.arshsaxena.in"><b>NPTEL Companion</a>:</b> Prepare with weekly and full-length quizzes from real NPTEL courses. Designed for efficient revision and last-minute prep.
         </li>
         <li>
             📖 <a href="https://education.arshsaxena.in"><b>aEducational by Arsh</a>:</b> Get letters, essays, notices, speeches, debates, and paragraphs - all written by me. Perfect for students and learners.

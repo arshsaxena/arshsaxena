@@ -1,4 +1,4 @@
-<h1>Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="35px"/></h1>
+Hey.
 
 I'm <a href="https://www.arshsaxena.in/" target="_blank"><b>Arsh Saxena</b></a>, a B.Tech. student in Electronics and Communication Engineering with a strong passion for software development, problem-solving, and building impactful applications. I enjoy turning ideas into practical solutions and continuously expanding my technical expertise.
 

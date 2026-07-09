@@ -57,7 +57,7 @@ Let's connect, ping me anywhere.🤘🏻
             🏞️ <a href="https://stackshot.arshsaxena.in"><b>Stackshot</a>:</b> A native macOS utility that captures screenshots into a temporary visual stack, letting you queue, copy, drag, or export them in the order you need.
         </li>
         <li>
-            📺 <a href="https://airroomtv.arshsaxena.in"><b>Stackshot</a>:</b> Instant, private screen mirroring and high-fidelity music streaming on your television. No registration, no ads, zero tracking.
+            📺 <a href="https://airroomtv.arshsaxena.in"><b>AirRoom TV</a>:</b> Instant, private screen mirroring and high-fidelity music streaming on your television. No registration, no ads, zero tracking.
         </li>
         <li>
             🛠️ <a href="https://chromewebstore.google.com/detail/vinhance/kdpkhnlloacadjadmepfnpdliglafaaf"><b>VInhance</a>:</b> Powerful Chrome extension designed to make VTOP more feature-rich for students across all VIT campuses.

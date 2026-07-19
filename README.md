@@ -1,16 +1,12 @@
 Hey.
 
-I'm <a href="https://www.arshsaxena.in/" target="_blank"><b>Arsh Saxena</b></a>, a B.Tech. student in Electronics and Communication Engineering with a strong passion for software development, problem-solving, and building impactful applications. I enjoy turning ideas into practical solutions and continuously expanding my technical expertise.
+I'm [**Arsh Saxena**](https://www.arshsaxena.in/), a final-year Electronics and Communication Engineering student interested in software engineering. I enjoy building software for the 🌐 **web**, 💻 **desktop**, and 🚀 **beyond**, while capturing moments through 📸 **photography** and turning ideas into practical applications.
 
-My primary programming language is C++, and I also work with Python and JavaScript. I'm currently focused on mastering Data Structures & Algorithms, strengthening my problem-solving skills, and building full-stack web applications while preparing for software engineering roles.
+I enjoy learning new technologies, experimenting with ideas, and building projects that challenge me to grow. Whether it's contributing to **open source**, building **personal projects**, or expressing ideas through 🖊️ **writing** and 🎥 **photo & video editing**, I enjoy creating things and learning along the way.
 
-I enjoy learning new technologies, writing clean and efficient code, and working on projects that challenge me to grow as a developer. I'm always looking for opportunities to improve, whether through personal projects, competitive programming, or exploring modern development tools and frameworks.
+When I'm not coding, you'll usually find me 🍿 **watching movies and TV shows** or 👟 **collecting sneakers**.
 
-Outside of coding, I enjoy photography, photo and video editing, watching movies and TV shows, and collecting sneakers.
-
-<h3>👨🏻‍💻 📷 📽 💻 🖊️ 👟</h3>
-
-Let's connect, ping me anywhere.🤘🏻
+Let's connect. I'd love to hear from you.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshsaxena/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arsh.saxena02)

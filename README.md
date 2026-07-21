@@ -59,7 +59,7 @@ Let's connect. I'd love to hear from you.
             🛠️ <a href="https://chromewebstore.google.com/detail/vinhance/kdpkhnlloacadjadmepfnpdliglafaaf"><b>VInhance</a>:</b> Powerful Chrome extension designed to make VTOP more feature-rich for students across all VIT campuses.
         </li>
         <li>
-            ↕️ <a href="https://github.com/arshsaxena/GitSort/"><b>GitSort</a>:</b> Sort GitHub repositories instantly with zero configuration, zero tokens, and zero API calls.
+            ↕️ <a href="https://github.com/GitSort-Dev/"><b>GitSort</a>:</b> Sort GitHub repositories instantly with zero configuration, zero tokens, and zero API calls.
         </li>
          <li>
             📝 <a href="https://nptelcompanion.arshsaxena.in"><b>NPTEL Companion</a>:</b> Prepare with weekly and full-length quizzes from real NPTEL courses. Designed for efficient revision and last-minute prep.

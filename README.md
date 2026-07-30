@@ -1,3 +1,5 @@
+<img src="banner.png">
+
 Hey.
 
 I'm [**Arsh Saxena**](https://www.arshsaxena.in/), a final-year Electronics and Communication Engineering student interested in software engineering. I enjoy building software for the 🌐 **web**, 💻 **desktop**, and 🚀 **beyond**, while capturing moments through 📸 **photography** and turning ideas into practical applications.

@@ -63,6 +63,9 @@ Let's connect. I'd love to hear from you.
         <li>
             ↕️ <a href="https://github.com/GitSort-Dev/"><b>GitSort</a>:</b> Sort GitHub repositories instantly with zero configuration, zero tokens, and zero API calls.
         </li>
+        <li>
+            ⏩️ <a href="https://github.com/LeetJump/"><b>LeetJump</a>:</b> Instantly redirect LeetCode problem numbers (leetcode.com/p/<id>, /problem/<id>) to official problem slug pages.
+        </li>
          <li>
             📝 <a href="https://nptelcompanion.arshsaxena.in"><b>NPTEL Companion</a>:</b> Prepare with weekly and full-length quizzes from real NPTEL courses. Designed for efficient revision and last-minute prep.
         </li>

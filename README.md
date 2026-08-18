@@ -8,7 +8,7 @@ I enjoy learning new technologies, experimenting with ideas, and building projec
 
 When I'm not coding, you'll usually find me 🍿 **watching movies and TV shows** or 👟 **collecting sneakers**.
 
-Let's connect. I'd love to hear from you.
+Let's [connect](https://www.arshsaxena.in/connect). I'd love to hear from you.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshsaxena/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arsh.saxena02)
